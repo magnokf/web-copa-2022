@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind utilities;
+@tailwind components;
+
+/* Path: src\styles\global.css */
+
+body {
+	-webkit-font-sooting: antialiased;
+}
