@@ -5,5 +5,5 @@
 /* Path: src\styles\global.css */
 
 body {
-	-webkit-font-sooting: antialiased;
+    -webkit-font-smoothing: antialiased;
 }

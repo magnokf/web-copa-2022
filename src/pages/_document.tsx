@@ -15,6 +15,7 @@ export default function DefaultDocument() {
 					href="https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap"
 					rel="stylesheet"
 				/>
+				<title>Bolão Online</title>
 			</Head>
 			<body className="bg-gray-900 bg-hero-pattern bg-no-repeat bg-cover">
 				<Main />
